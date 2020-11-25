@@ -1,0 +1,32 @@
+warning: CRLF will be replaced by LF in README.md.
+The file will have its original line endings in your working directory
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 1f4bfc0..f3ccc7f 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -3,9 +3,9 @@[m
+ This is a teste[m
+ [m
+ ##Intro[m
+[31m-[m
+[32m+[m[32mdfasasf[m
+ ##Purpose [m
+[31m-[m
+[32m+[m[32masfafa[m
+ ##Deploy[m
+[31m-[m
+[32m+[m[32masdafafasf[m
+ ##Contri[m
+\ No newline at end of file[m
+[1mdiff --git a/simple.html b/simple.html[m
+[1mindex ca5e908..74fa1d0 100644[m
+[1m--- a/simple.html[m
+[1m+++ b/simple.html[m
+[36m@@ -1,6 +1,6 @@[m
+ <!DOCTYPE html>[m
+ <head>[m
+[31m-	<title></title>[m
+[32m+[m	[32m<title>Simple</title>[m
+ 	<link rel="stylesheet" href="css/bootstrap.min.css">[m
+ 	<style>[m
+ 		body {[m
